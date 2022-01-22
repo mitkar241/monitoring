@@ -14,4 +14,4 @@ sudo sed -i '/127.0.0.1:8081/c\  - "ws://controller.mitkar.io:8081"' /etc/sensu/
 
 sudo service sensu-agent start
 sudo systemctl enable sensu-agent
-sudo service sensu-agent status
+#sudo service sensu-agent status
