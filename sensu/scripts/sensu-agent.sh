@@ -1,7 +1,6 @@
 curl -s https://packagecloud.io/install/repositories/sensu/stable/script.deb.sh | sudo bash
 sudo apt install sensu-go-agent -y
 sudo curl -L https://docs.sensu.io/sensu-go/latest/files/agent.yml -o /etc/sensu/agent.yml
-sudo nano /etc/sensu/agent.yml
 
 #<<
 ##backend-url:
