@@ -5,4 +5,4 @@ sudo service sensu-backend start
 sudo systemctl enable sensu-backend
 #service sensu-backend status
 # len(password) and len(api-key) >= 6
-sensu-backend init --cluster-admin-username raktim --cluster-admin-password 12345678 --cluster-admin-api-key API12345678
+sensu-backend init --cluster-admin-username raktim --cluster-admin-password 12345678 --cluster-admin-api-key abcd1234-ab12-cd34-ef56-abcdef123456
