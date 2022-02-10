@@ -14,6 +14,7 @@ sudo systemctl start elasticsearch.service
 
 sudo apt install logstash -y
 #sudo vi /etc/logstash/conf.d/covid_19.conf
+#sudo /usr/share/logstash/bin/logstash --debug --path.settings /etc/logstash -f /etc/logstash/conf.d/covid_19.conf -t
 sudo systemctl daemon-reload
 sudo systemctl enable logstash.service
 sudo systemctl start logstash.service
