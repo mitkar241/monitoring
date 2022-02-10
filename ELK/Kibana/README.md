@@ -1,5 +1,8 @@
 # Kibana
 ---
+
+[GITHUB](https://github.com/elastic/kibana)
+
 ![kibana logo](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt0423c2ca741d3c05/5ea8c90064f47652ec7993f4/brand-kibana-220x130.svg)
 
 ## What is Kibana?
