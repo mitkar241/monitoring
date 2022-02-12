@@ -17,9 +17,10 @@ This `ndjson` file can be imported by `Kibana` and the required dashboard will b
 
 ## TODO
 ---
-- [ ] testcase ssing pytest
-- [ ] decouple main from `covid19`
 - [ ] create `Makefile`
+- [ ] add `.gitignore`
+- [ ] testcase using pytest
+- [ ] decouple main from `covid19`
 - [ ] understand `__all__`
 
 *optional*
