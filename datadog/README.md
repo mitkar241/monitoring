@@ -47,4 +47,5 @@ See inside any stack, any app, at any scale, anywhere.
 ## Integrations
 ---
 - [AWS](https://docs.datadoghq.com/integrations/amazon_web_services/)
+- [GCP](https://docs.datadoghq.com/integrations/google_cloud_platform/)
 - [Kubernetes](https://docs.datadoghq.com/integrations/kubernetes/)
