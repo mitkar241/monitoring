@@ -1,3 +1,0 @@
-# ELK
----
-ELK stack directory
